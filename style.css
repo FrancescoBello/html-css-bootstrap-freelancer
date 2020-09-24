@@ -57,3 +57,25 @@ strong:hover{
 .navbar-toggle:hover {
   background-color: #148f77 ;
 }
+
+
+.header-bottom{
+   align-items: center;
+   background-color: #1abc9c;
+   text-align: center;
+}
+
+.start{
+  color: white;
+  font-size: 45px;
+}
+
+
+.fa-star{
+  color: white;
+
+}
+img{
+  width: 220px;
+  height: 200px;
+}
